@@ -69,7 +69,10 @@ WORDS = ["lavadora",
          "diputado",
          "democracia",
          "computadora",
-         "teclado"]
+         "teclado",
+         "python",
+         "programacion",
+         "multiplicacion"]
 
 def random_word():
     #funcion que extrae una palabra al azar
@@ -112,7 +115,7 @@ def run():
             print("")
             print("Ganaste! La palabra correcta era {}".format(word))
             break
-    
+
 
 
 
